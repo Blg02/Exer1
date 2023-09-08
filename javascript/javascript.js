@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
 <script>
 function displaySum() {
   let firstNum = Number(document.getElementById('firstNum').innerHTML)
@@ -13,6 +9,3 @@ function displaySum() {
 
 document.getElementById('sumButton').addEventListener("click", displaySum);
 </script>
-
-</body>
-</html> 
