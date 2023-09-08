@@ -1,4 +1,3 @@
-
 function displaySum() {
   let firstNum = Number(document.getElementById('firstNum').innerHTML)
   let secondNum = Number(document.getElementById('secondNum').innerHTML)
