@@ -1,4 +1,4 @@
-<script>
+
 function displaySum() {
   let firstNum = Number(document.getElementById('firstNum').innerHTML)
   let secondNum = Number(document.getElementById('secondNum').innerHTML)
@@ -8,4 +8,4 @@ function displaySum() {
 }
 
 document.getElementById('sumButton').addEventListener("click", displaySum);
-</script>
+
