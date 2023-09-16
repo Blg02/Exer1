@@ -48,6 +48,9 @@ em {
   border-radius: 10px;
   margin: 20px;
 }
+.math-container h2{
+    background-color:gray;
+}
 
 .math-operation {
   margin: 10px 0;
